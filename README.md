@@ -9,6 +9,8 @@
 ### Python
 
 ### JavaScript/React
+[RevealLens](https://reveallens.vercel.app/)
+[RevealLens Code](https://github.com/tihsle/320-win25-finalproject-tihsle)
 
 ### Service Now
 
