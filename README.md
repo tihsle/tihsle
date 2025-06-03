@@ -12,7 +12,7 @@
 ### JavaScript/React
 [RevealLens](https://reveallens.vercel.app/) <br/>
 [RevealLens Code](https://github.com/tihsle/320-win25-finalproject-tihsle)<br/>
-[PromptCrafter API]([https://github.com/tihsle/PromptCrafter]) <br/>
+[PromptCrafter API](https://github.com/tihsle/PromptCrafter) <br/>
 
 ### Service Now
 
