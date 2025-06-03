@@ -4,13 +4,15 @@
 
 ### API
 [API Docs](https://github.com/tihsle/to-do-service-sp25) <br/>
-[API Docs Pages](https://tihsle.github.io/to-do-service-sp25/)
+[API Docs Pages](https://tihsle.github.io/to-do-service-sp25/) <br/>
+[PromptCrafter API](https://github.com/tihsle/PrompCrafter) <br/>
 
 ### Python
 
 ### JavaScript/React
 [RevealLens](https://reveallens.vercel.app/) <br/>
-[RevealLens Code](https://github.com/tihsle/320-win25-finalproject-tihsle)
+[RevealLens Code](https://github.com/tihsle/320-win25-finalproject-tihsle)<br/>
+[PromptCrafter API](https://github.com/tihsle/PrompCrafter) <br/>
 
 ### Service Now
 
