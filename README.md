@@ -15,9 +15,11 @@
 [PromptCrafter API](https://github.com/tihsle/PromptCrafter) <br/>
 
 ### Service Now
+Company Vechicle Loaner App
+Office Hotel Reservation App
 
-
-
+### AWS Bedrock
+Sparkie AI Vector Search
 
 
 <!--
