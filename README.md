@@ -1,4 +1,4 @@
-![Project Logo](js-fullstack.png)
+<img src="js-fullstack.png" alt="Logo" width="300"/>
 ## Hi there 👋
 
 ## Respositories
