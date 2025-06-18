@@ -1,5 +1,4 @@
-<img src="js-fullstack.png" alt="Logo" width="300"/>
-## Hi there 👋
+<img src="js-fullstack.png" alt="js badge" width="300"/>
 
 ## Respositories
 
