@@ -1,4 +1,4 @@
-<img src="js-fullstack.png" alt="js badge" width="200"/><img src="awsdev.png" alt="aws dev badge" width="400"/>
+<img src="js-fullstack.png" alt="js badge" width="200"/><img src="awsdev.png" alt="aws dev badge" width="350"/>
 
 ## Respositories
 
