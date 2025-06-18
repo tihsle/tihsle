@@ -1,3 +1,4 @@
+![Project Logo](js-fullstack.png)
 ## Hi there 👋
 
 ## Respositories
