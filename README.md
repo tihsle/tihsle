@@ -15,7 +15,7 @@
 [PromptCrafter API](https://github.com/tihsle/PromptCrafter) <br/>
 
 ### Service Now
-Company Vechicle Loaner App
+Company Vehicle Loaner App
 
 ### AWS Bedrock
 AI Vector Search
