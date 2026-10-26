@@ -1,6 +1,6 @@
 <img src="js-fullstack.png" alt="js badge" width="200"/><img src="Big Data.png" alt="js badge" width="200"/><img src="ML.png" alt="js badge" width="200"/><img src="DS.png" alt="js badge" width="200"/>
 
-## Respositories
+## Repositories
 
 ### API
 [API Docs](https://github.com/tihsle/to-do-service-sp25) <br/>
