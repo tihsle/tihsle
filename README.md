@@ -8,6 +8,10 @@
 [PromptCrafter API](https://github.com/tihsle/PromptCrafter) <br/>
 
 ### Python
+#### AI 240 Machine Learning
+[Jupyter Notebooks](https://github.com/tihsle/AI240) <br/>
+[Classification](https://nbviewer.org/github/tihsle/AI240/blob/main/Classification.ipynb)<br/>
+
 
 ### JavaScript/React
 [RevealLens](https://reveallens.vercel.app/) <br/>
@@ -20,9 +24,6 @@ Company Vehicle Loaner App
 ### AWS Bedrock
 AI Vector Search
 
-### AI 240 Machine Learning
-[Jupyter Notebooks](https://github.com/tihsle/AI240) <br/>
-[Classification](https://nbviewer.org/github/tihsle/AI240/blob/main/Classification.ipynb)<br/>
 
 <!--
 **tihsle/tihsle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
