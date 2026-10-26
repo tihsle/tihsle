@@ -21,7 +21,7 @@ Company Vehicle Loaner App
 AI Vector Search
 
 ### AI 240 Machine Learning
-[Jupyter Notebooks](https://github.com/tihsle/to-do-service-sp25) <br/>
+[Jupyter Notebooks](https://github.com/tihsle/AI240) <br/>
 
 <!--
 **tihsle/tihsle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
