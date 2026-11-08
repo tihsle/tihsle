@@ -11,7 +11,7 @@
 #### AI 240 Machine Learning
 [Jupyter Notebooks](https://github.com/tihsle/AI240) <br/>
 [Classification](https://nbviewer.org/github/tihsle/AI240/blob/main/Classification.ipynb)<br/>
-[Naive Bayes Classifier](https://nbviewer.org/github/tihsle/AI240/blob/main/Naive Bayes Classifier for Diabetes Prediction2.ipynb)<br/>
+[Naive Bayes Classifier](https://nbviewer.org/github/tihsle/AI240/blob/main/Naive%20Bayes%20Classifier%20for%20Diabetes%20Prediction2.ipynb)<br/>
 
 
 ### JavaScript/React
